@@ -1,4 +1,6 @@
 it's test file
+
+header
 --------------
 1st line
 2nd line
@@ -6,3 +8,4 @@ it's test file
 4th line
 5th line
 --------------
+footer
