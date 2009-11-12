@@ -6,4 +6,3 @@ it's test file
 4th line
 5th line
 --------------
-footer
